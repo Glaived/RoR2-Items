@@ -1,0 +1,33 @@
+{
+  "name": "ror2-items",
+  "version": "1.0.0",
+  "description": "Risk of Rain 2 Items and Equipments with a search functionality.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "chalk": "^4.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-print": "^5.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify-es": "^2.0.0",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "npx gulp server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glagan/RoR2-Items.git"
+  },
+  "author": "Glagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glagan/RoR2-Items/issues"
+  },
+  "homepage": "https://github.com/Glagan/RoR2-Items#readme"
+}
